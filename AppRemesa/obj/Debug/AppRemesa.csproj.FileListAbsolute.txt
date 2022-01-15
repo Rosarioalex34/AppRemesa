@@ -1,0 +1,10 @@
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\bin\Debug\AppRemesa.exe.config
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\bin\Debug\AppRemesa.exe
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\bin\Debug\AppRemesa.pdb
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.csproj.AssemblyReference.cache
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.Form1.resources
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.Properties.Resources.resources
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.csproj.GenerateResource.cache
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.csproj.CoreCompileInputs.cache
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.exe
+C:\Users\hiero\source\repos\AppRemesa\AppRemesa\obj\Debug\AppRemesa.pdb
